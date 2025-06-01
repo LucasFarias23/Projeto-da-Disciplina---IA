@@ -1,1 +1,102 @@
 
+Empresa,Ano,Receita (milhões USD),Lucro Líquido (milhões USD),Total Ativos (milhões USD),Total Passivos (milhões USD),Projeção Crescimento (%),Setor
+CyberSoft,2022,4918.77,217.29,3005.76,11214.33,17.09,Software
+NextGen,2019,2054.24,8.33,16318.48,10279.38,8.52,Tecnologia da Informação
+DataGen,2022,4100.52,90.58,16502.47,3715.1,19.41,Tecnologia da Informação
+NextGen,2020,4011.89,145.1,12705.82,6123.3,8.24,Tecnologia da Informação
+NextGen,2019,838.52,1197.34,16498.32,7270.18,9.1,Tecnologia da Informação
+InnovaTech,2023,2590.17,-226.76,13203.95,1426.79,6.64,Software
+DataGen,2021,3509.48,917.82,4530.35,8019.88,-7.27,Tecnologia da Informação
+DataGen,2022,4305.96,605.64,5842.24,6657.77,11.79,Software
+DataGen,2021,1697.2,93.02,4684.49,12071.22,6.42,Software
+NextGen,2021,1179.18,339.56,7856.55,14672.93,3.53,Hardware
+CyberSoft,2019,3584.63,12.41,1259.78,8428.87,17.31,Serviços Digitais
+DataGen,2021,4066.56,723.03,12555.95,4975.76,-1.06,Serviços Digitais
+NextGen,2023,1808.46,-336.81,7062.81,842.33,5.71,Software
+InnovaTech,2021,571.27,-489.63,13286.59,13884.72,10.93,Hardware
+CyberSoft,2019,4708.56,755.79,8015.23,13802.91,13.89,Software
+InnovaTech,2023,2048.1,-111.45,13791.47,3944.25,3.78,Software
+CyberSoft,2020,2636.98,-358.12,7142.18,10492.08,15.26,Software
+NextGen,2021,4204.78,293.57,5583.54,1316.43,13.07,Hardware
+TechCorp,2019,3410.88,-398.46,10172.73,2659.99,-8.01,Serviços Digitais
+CyberSoft,2020,3702.56,1273.23,14011.36,3408.77,-8.62,Hardware
+InnovaTech,2020,1124.45,-444.77,7292.56,4558.51,8.62,Tecnologia da Informação
+NextGen,2022,2753.1,657.73,18764.64,14938.3,0.42,Hardware
+CyberSoft,2023,3509.34,376.95,1264.13,10514.49,-3.73,Hardware
+TechCorp,2021,1219.9,844.05,8649.95,5886.19,7.39,Hardware
+TechCorp,2019,957.28,156.31,19367.82,11109.09,0.25,Hardware
+DataGen,2022,4912.62,-189.92,11185.45,13745.76,6.12,Serviços Digitais
+DataGen,2023,2631.52,1463.68,8757.68,14388.8,3.8,Tecnologia da Informação
+InnovaTech,2022,1378.06,1177.87,11586.15,1056.39,7.54,Serviços Digitais
+CyberSoft,2023,4981.64,1220.81,11730.53,6038.92,2.01,Serviços Digitais
+CyberSoft,2023,4830.55,0.5,14767.13,1779.99,10.93,Hardware
+DataGen,2021,2835.64,-422.33,2989.95,5167.77,-4.6,Software
+CyberSoft,2023,4424.92,106.53,5375.32,2711.26,10.9,Software
+CyberSoft,2022,1024.66,574.16,11820.61,9773.36,2.35,Serviços Digitais
+TechCorp,2023,1466.47,153.3,17408.77,5946.37,16.23,Serviços Digitais
+DataGen,2021,3531.75,1155.74,11456.4,3595.04,5.46,Hardware
+NextGen,2021,4248.64,43.09,5152.64,4135.88,19.19,Serviços Digitais
+DataGen,2022,4295.99,1430.5,13756.97,5533.11,8.06,Hardware
+NextGen,2020,2082.09,414.53,14928.22,4047.26,-3.28,Software
+TechCorp,2020,4450.07,1184.05,5145.6,6907.96,14.65,Software
+InnovaTech,2023,4269.55,-111.24,7865.71,678.28,0.35,Tecnologia da Informação
+CyberSoft,2019,4684.61,322.71,10919.39,4340.5,0.43,Software
+TechCorp,2023,3948.17,899.02,10182.94,6285.86,-9.05,Serviços Digitais
+CyberSoft,2022,3378.04,-223.29,8097.55,9121.17,6.46,Software
+InnovaTech,2022,2945.36,-234.51,6303.89,4210.17,6.03,Hardware
+InnovaTech,2022,1924.19,1439.07,2449.71,2171.14,0.68,Software
+TechCorp,2022,4706.65,929.19,1542.96,1327.77,16.83,Tecnologia da Informação
+InnovaTech,2022,4870.95,-417.86,19191.56,14119.87,-6.14,Software
+NextGen,2021,1491.21,297.64,17019.29,6366.26,-0.1,Hardware
+InnovaTech,2020,1596.28,367.04,7420.65,8801.21,-0.35,Hardware
+CyberSoft,2022,2479.51,988.09,19157.62,13803.81,-7.23,Serviços Digitais
+CyberSoft,2019,2297.28,1.72,13697.01,1424.68,4.43,Software
+CyberSoft,2019,4972.84,-131.33,9909.16,13174.59,10.63,Hardware
+CyberSoft,2019,962.03,-338.25,10114.0,8363.5,5.35,Tecnologia da Informação
+NextGen,2019,188.57,356.63,2124.05,2639.55,-5.29,Serviços Digitais
+DataGen,2021,2520.08,877.0,2288.23,6286.58,1.32,Tecnologia da Informação
+TechCorp,2019,976.23,-383.61,12247.6,11708.51,-9.92,Software
+CyberSoft,2022,1895.7,1330.43,11297.21,7309.48,16.05,Software
+InnovaTech,2023,3746.44,384.7,4648.19,14782.23,-7.46,Software
+CyberSoft,2019,3632.61,-20.43,18950.79,5775.74,7.92,Serviços Digitais
+InnovaTech,2021,1609.5,-312.25,15735.27,11293.76,19.59,Hardware
+InnovaTech,2021,2758.45,-134.27,2712.56,6016.24,6.1,Serviços Digitais
+CyberSoft,2019,2593.19,1369.23,18653.12,12471.63,17.72,Tecnologia da Informação
+NextGen,2023,3218.03,776.54,19497.84,8622.41,-2.92,Serviços Digitais
+InnovaTech,2019,1327.26,533.39,19920.66,1139.98,12.8,Tecnologia da Informação
+InnovaTech,2021,2990.37,814.22,1589.49,744.96,5.94,Serviços Digitais
+CyberSoft,2020,4896.58,371.35,14872.19,2181.01,11.62,Hardware
+InnovaTech,2022,2485.04,960.08,11145.36,402.35,-8.13,Tecnologia da Informação
+InnovaTech,2021,4539.88,-404.57,14263.71,1315.31,-5.57,Software
+CyberSoft,2019,2228.53,632.07,19388.71,10437.37,-6.01,Software
+CyberSoft,2022,1815.38,-182.71,13916.59,8108.32,10.61,Serviços Digitais
+TechCorp,2019,3261.01,-259.67,16820.8,11298.68,15.33,Software
+NextGen,2019,3377.73,183.76,17403.94,13714.85,12.49,Tecnologia da Informação
+NextGen,2020,4334.42,-316.4,16850.37,8860.21,-9.09,Software
+InnovaTech,2022,1227.91,-311.69,8808.78,10946.59,16.02,Hardware
+NextGen,2022,2546.05,122.83,4840.24,11404.8,0.62,Hardware
+InnovaTech,2020,2902.82,1459.02,8234.71,5792.19,1.91,Serviços Digitais
+TechCorp,2021,3865.91,-149.34,17891.99,3768.06,-6.85,Tecnologia da Informação
+CyberSoft,2019,313.66,-465.68,3358.79,3234.67,12.12,Hardware
+CyberSoft,2023,4973.3,1026.73,10509.86,3921.35,-4.53,Hardware
+CyberSoft,2019,2402.73,1113.83,5047.95,4266.03,6.92,Tecnologia da Informação
+NextGen,2019,1469.85,192.61,11835.46,3266.97,15.22,Software
+TechCorp,2021,4429.12,429.35,17331.2,13197.67,-7.32,Software
+NextGen,2019,3763.82,799.55,17667.02,11403.59,6.06,Serviços Digitais
+NextGen,2020,4770.05,-403.88,5115.36,894.07,-3.0,Software
+TechCorp,2020,1720.68,1398.29,18200.03,4176.35,0.29,Tecnologia da Informação
+TechCorp,2022,2808.55,1273.36,12041.83,528.33,4.22,Hardware
+TechCorp,2023,2904.23,21.79,7329.26,7572.84,0.65,Software
+TechCorp,2019,4903.62,-469.39,14309.53,7247.92,9.46,Serviços Digitais
+CyberSoft,2019,469.2,1366.87,9892.51,12504.3,4.39,Software
+DataGen,2021,1597.92,502.08,7870.76,4755.1,7.53,Tecnologia da Informação
+DataGen,2020,1035.46,578.75,14249.15,12282.51,12.1,Serviços Digitais
+TechCorp,2023,1415.53,867.93,5350.12,14526.01,6.73,Software
+DataGen,2022,2477.87,731.7,6939.92,1508.44,7.6,Serviços Digitais
+DataGen,2020,1926.17,1387.78,8971.81,11918.9,6.93,Tecnologia da Informação
+TechCorp,2022,2033.99,1388.5,5446.8,8931.35,1.36,Hardware
+DataGen,2021,4236.64,1234.4,8401.44,7304.68,0.12,Tecnologia da Informação
+NextGen,2021,4657.08,772.81,11643.72,6423.93,16.99,Tecnologia da Informação
+InnovaTech,2019,445.04,1101.9,14948.99,11813.09,8.23,Tecnologia da Informação
+InnovaTech,2023,1123.7,854.34,15460.3,9662.55,-2.67,Tecnologia da Informação
+TechCorp,2022,3388.6,646.73,16544.41,12114.66,4.95,Hardware

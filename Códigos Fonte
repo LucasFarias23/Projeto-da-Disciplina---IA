@@ -1,1 +1,46 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from wordcloud import WordCloud
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+
+nltk.download('punkt')
+nltk.download('stopwords')
+
+df = pd.read_csv("dataset_financeiro.csv")
+
+df['Texto_Relatorio'] = (
+    "A empresa " + df['Empresa'] +
+    " no ano de " + df['Ano'].astype(str) +
+    " registrou uma receita de " + df['Receita (milhões USD)'].astype(str) +
+    " milhões de dólares e um lucro líquido de " + df['Lucro Líquido (milhões USD)'].astype(str) +
+    " milhões. O setor de atuação é " + df['Setor'] +
+    " com projeção de crescimento de " + df['Projeção Crescimento (%)'].astype(str) + "%."
+)
+
+def preprocess(text):
+    tokens = word_tokenize(text.lower())
+    stop_words = set(stopwords.words('portuguese')) | set(stopwords.words('english'))
+    tokens = [t for t in tokens if t.isalpha() and t not in stop_words]
+    return tokens
+
+df['tokens'] = df['Texto_Relatorio'].apply(preprocess)
+
+all_words = ' '.join([' '.join(tokens) for tokens in df['tokens']])
+wordcloud = WordCloud(width=800, height=400, background_color='white').generate(all_words)
+wordcloud.to_file("nuvem_palavras.png")
+
+plt.figure(figsize=(10, 6))
+sns.boxplot(x='Empresa', y='Receita (milhões USD)', data=df)
+plt.title('Distribuição da Receita por Empresa')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig("receita_por_empresa.png")
+plt.close()
+
+df.to_csv("dataset_processado.csv", index=False)
+
+print("Processamento concluído com sucesso!")
 
